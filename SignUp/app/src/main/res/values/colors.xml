@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--app color-->
+    <color name="black">#010101</color>
+    <color name="black_100">#80000000</color>
+    <color name="black_84">#D61C1B1B</color>
+
+    <color name="light_purple">#AD18C7</color>
+    <color name="dark_purple">#7B208B</color>
+    <color name="purple">#833AB4</color>
+
+    <color name="blue">#3B96E6</color>
+    <color name="light_blue">#1D90F5</color>
+    <color name="neon_blue">#2BCADE</color>
+    <color name="neon_dark_blue">#3EADCF</color>
+
+    <color name="light_green">#06B8C9</color>
+    <color name="teal">#2CC2A7</color>
+    <color name="dark_teal">#209D86</color>
+    <color name="green">#25D366</color>
+
+    <color name="light_red">#FE4733</color>
+    <color name="crimson">#990000</color>
+    <color name="bronze">#CD7F32</color>
+    <color name="pink">#E71D60</color>
+
+    <color name="gold">#FFC107</color>
+    <color name="yellow_63">#A1FFC107</color>
+
+    <color name="gray">#C4C4C4</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray_54">#8AAFA6A6</color>
+
+    <color name="white">#FDFDFD</color>
+    <color name="off_white">#F1F1F1</color>
+</resources>

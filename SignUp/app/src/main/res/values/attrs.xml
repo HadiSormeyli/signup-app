@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomEditText">
+        <attr name="customIcon" format="reference" />
+        <attr name="customLimit" format="string" />
+        <attr name="customInputType" format="enum">
+            <enum name="password" value="80" />
+            <enum name="text" value="1" />
+            <enum name="phoneNumber" value="2" />
+        </attr>
+        <attr name="customMode" format="enum">
+            <enum name="clear" value="2" />
+            <enum name="hide" value="1" />
+        </attr>
+        <attr name="customHint" format="string" />
+    </declare-styleable>
+</resources>

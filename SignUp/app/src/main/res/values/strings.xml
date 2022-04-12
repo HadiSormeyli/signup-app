@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="welcome_to_app">به برنامه اسپرت خوش آمدید</string>
+    <string name="enter_your_account">به اکانت خود وارد شوید</string>
+    <string name="change_your_password">رمز خود را تغییر دهید</string>
+    <string name="slogan">اسپرت راهکاری برای ورزش بهتر</string>
+    <string name="enter">ورود</string>
+    <string name="signup">ثبت نام</string>
+    <string name="welcome_app_description">با ما در اسپرت بهترین نسخه ی خودت رو بساز و پرورش بده ما در طول مسیر یار و یاور تو خواهیم بود</string>
+    <string name="make_account">برای شروع یک اکانت بسازید</string>
+    <string name="confirm_sms_code">برای ادامه شماره ی خود را تایید کنید</string>
+    <string name="username">نام کاربری</string>
+    <string name="phone_number">شماره موبایل</string>
+    <string name="password">رمز</string>
+    <string name="have_account">اکانت دارم میخواهم وارد شوم</string>
+    <string name="have_not_account">اکانت ندارم میخواهم وارد شوم</string>
+    <string name="forget_password">رمزتو یادت رفته؟؟؟</string>
+    <string name="new_password">رمز جدید</string>
+    <string name="confirm_password">تکرار رمز جدید</string>
+    <string name="confirm_number">تایید شماره تماس</string>
+    <string name="join">عضویت</string>
+</resources>
